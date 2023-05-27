@@ -9,6 +9,8 @@ import FeaturesBlocks from '@/components/features-blocks'
 import Testimonials from '@/components/testimonials'
 import Newsletter from '@/components/newsletter'
 
+
+
 export default function Home() {
   return (
     <>
